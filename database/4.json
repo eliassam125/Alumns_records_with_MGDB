@@ -1,0 +1,10 @@
+{
+    "id":  1,
+    "name" : "Matias Guevara",
+    "stars": 5,
+    "photo": {
+        "desc":"the directory in files where the photo is stored",
+        "type":"string"
+    }
+      
+}
