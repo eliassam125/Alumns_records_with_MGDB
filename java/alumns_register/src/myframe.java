@@ -14,11 +14,11 @@ public class myframe {
         
 
 
-        //panelImage imagen_1 = new panelImage();
-        //frame.add(imagen_1.getLabel());
+        panelImage imagen_1 = new panelImage();
+        frame.add(imagen_1.getLabel());
         
-        panelimage2 asd = new panelimage2();
-        frame.add(asd);
+        //panelimage2 asd = new panelimage2();
+        //frame.add(asd);
 
         frame.setVisible(true);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);

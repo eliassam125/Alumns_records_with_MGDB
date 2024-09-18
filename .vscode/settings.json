@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "java\\alumns_register\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Usuario\\Desktop\\mongodb-driver-core-5.1.4.jar",
+        "c:\\Users\\Usuario\\Desktop\\bson-3.3.0.jar",
+        "c:\\Users\\Usuario\\Desktop\\mongodb-driver-3.9.1.jar"
+    ]
+}
